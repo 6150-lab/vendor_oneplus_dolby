@@ -19,7 +19,7 @@ endif
 
 # DolbyManager
 PRODUCT_PACKAGES += \
-    DolbyAtmos
+    LunarisDolby
 
 # Overlay-RRO
 PRODUCT_PACKAGES += \
